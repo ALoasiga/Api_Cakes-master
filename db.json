@@ -1,49 +1,45 @@
 {
     "Ingredients":[
         {
-            "id" : 1,
+            "id": 1,
             "Sugar": "200g",
             "BakingPowder": "1tsp",
             "Margarineorsoftenedbutter": "175g",
-            "Flour":"175g",
-            "Eggs":"3",
-            "Vanillaextract":"1tsp",
+            "Flour": "175g",
+            "Eggs": "3",
+            "Vanillaextract": "1tsp",
             "Salt": "A pinch"
-        },
-
-        {
-            "id" : 2,
+          },
+          {
+            "id": 2,
             "Sugar": "200g",
             "BakingPowder": "1tsp",
             "Margarineorsoftenedbutter": "175g",
-            "Flour":"175g",
-            "Eggs":"3",
-            "Vanillaextract":"1tsp",
+            "Flour": "175g",
+            "Eggs": "3",
+            "Vanillaextract": "1tsp",
             "Salt": "A pinch"
-        },
-
-        {
-            "id" : 3,
+          },
+          {
+            "id": 3,
             "Sugar": "200g",
             "BakingPowder": "1tsp",
             "Margarineorsoftenedbutter": "175g",
-            "Flour":"175g",
-            "Eggs":"3",
-            "Vanillaextract":"1tsp",
+            "Flour": "175g",
+            "Eggs": "3",
+            "Vanillaextract": "1tsp",
             "Salt": "A pinch"
-        },
-
-        {
-            "id" : 4,
+          },
+          {
+            "id": 4,
             "Sugar": "200g",
             "BakingPowder": "1tsp",
             "Margarineorsoftenedbutter": "175g",
-            "Flour":"175g",
-            "Eggs":"3",
-            "Vanillaextract":"1tsp",
+            "Flour": "175g",
+            "Eggs": "3",
+            "Vanillaextract": "1tsp",
             "Salt": "A pinch"
-        },
-
+          },
         {
             "id" : 5,
             "Sugar": "200g",
@@ -54,7 +50,6 @@
             "Vanillaextract":"1tsp",
             "Salt": "A pinch"
         },
-
         {
             "id" : 6,
             "Sugar": "200g",
@@ -65,7 +60,6 @@
             "Vanillaextract":"1tsp",
             "Salt": "A pinch"
         },
-
         {
             "id" : 7,
             "Sugar": "200g",
@@ -76,7 +70,6 @@
             "Vanilla extract":"1tsp",
             "Salt": "A pinch"
         },
-
         {
             "id" : 8,
             "Sugar": "200g",
@@ -87,7 +80,6 @@
             "Vanillaextract":"1tsp",
             "Salt": "A pinch"
         },
-
         {
             "id" : 9,
             "Sugar": "200g",
