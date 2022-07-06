@@ -1,14 +1,14 @@
 {
     "Ingredients":[
         {
-         "id" : 1,
-         "Sugar": "200g",
-         "BakingPowder": "1tsp",
-         "Margarineorsoftenedbutter": "175g",
-         "Flour":"175g",
-         "Eggs":"3",
-         "Vanillaextract":"1tsp",
-         "Salt": "A pinch"
+            "id" : 1,
+            "Sugar": "200g",
+            "BakingPowder": "1tsp",
+            "Margarineorsoftenedbutter": "175g",
+            "Flour":"175g",
+            "Eggs":"3",
+            "Vanillaextract":"1tsp",
+            "Salt": "A pinch"
         },
 
         {
