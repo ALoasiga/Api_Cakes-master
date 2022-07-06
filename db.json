@@ -1,5 +1,5 @@
 {
-    "Ingredients":[
+    "Ingredientes":[
         {
             "id": 1,
             "Sugar": "200g",
@@ -8,7 +8,9 @@
             "Flour": "175g",
             "Eggs": "3",
             "Vanillaextract": "1tsp",
-            "Salt": "A pinch"
+            "Salt": "A pinch",
+            "Mix": "Chocolate",
+            "Fruits": "6 cherries"
           },
           {
             "id": 2,
@@ -18,7 +20,9 @@
             "Flour": "175g",
             "Eggs": "3",
             "Vanillaextract": "1tsp",
-            "Salt": "A pinch"
+            "Salt": "A pinch",
+            "Mix": "Chocolate",
+            "Fruits": "8 strawberries"
           },
           {
             "id": 3,
@@ -28,7 +32,9 @@
             "Flour": "175g",
             "Eggs": "3",
             "Vanillaextract": "1tsp",
-            "Salt": "A pinch"
+            "Salt": "A pinch",
+            "Mix": "Chocolate",
+            "Fruits": "6 cherries"
           },
           {
             "id": 4,
@@ -38,58 +44,70 @@
             "Flour": "175g",
             "Eggs": "3",
             "Vanillaextract": "1tsp",
-            "Salt": "A pinch"
+            "Salt": "A pinch",
+            "Mix": "Chocolate",
+            "Fruits": "8 strawberries"
           },
-        {
-            "id" : 5,
+          {
+            "id": 5,
             "Sugar": "200g",
             "BakingPowder": "1tsp",
             "Margarineorsoftenedbutter": "175g",
-            "Flour":"175g",
-            "Eggs":"3",
-            "Vanillaextract":"1tsp",
-            "Salt": "A pinch"
-        },
-        {
-            "id" : 6,
+            "Flour": "175g",
+            "Eggs": "3",
+            "Vanillaextract": "1tsp",
+            "Salt": "A pinch",
+            "Mix": "Chocolate",
+            "Fruits": "6 cherries"
+          },
+          {
+            "id": 6,
             "Sugar": "200g",
             "BakingPowder": "1tsp",
             "Margarineorsoftenedbutter": "175g",
-            "Flour":"175g",
-            "Eggs":"3",
-            "Vanillaextract":"1tsp",
-            "Salt": "A pinch"
-        },
-        {
-            "id" : 7,
+            "Flour": "175g",
+            "Eggs": "3",
+            "Vanillaextract": "1tsp",
+            "Salt": "A pinch",
+            "Mix": "Chocolate",
+            "Fruits": "8 strawberries"
+          },
+          {
+            "id": 7,
             "Sugar": "200g",
             "BakingPowder": "1tsp",
             "Margarineorsoftenedbutter": "175g",
-            "Flour":"175g",
-            "Eggs":"3",
-            "Vanilla extract":"1tsp",
-            "Salt": "A pinch"
-        },
-        {
-            "id" : 8,
+            "Flour": "175g",
+            "Eggs": "3",
+            "Vanilla extract": "1tsp",
+            "Salt": "A pinch",
+            "Mix": "Chocolate",
+            "Fruits": "6 cherries"
+          },
+          {
+            "id": 8,
             "Sugar": "200g",
             "BakingPowder": "1tsp",
             "Margarineorsoftenedbutter": "175g",
-            "Flour":"175g",
-            "Eggs":"3",
-            "Vanillaextract":"1tsp",
-            "Salt": "A pinch"
-        },
-        {
-            "id" : 9,
+            "Flour": "175g",
+            "Eggs": "3",
+            "Vanillaextract": "1tsp",
+            "Salt": "A pinch",
+            "Mix": "Chocolate",
+            "Fruits": "8 strawberries"
+          },
+          {
+            "id": 9,
             "Sugar": "200g",
             "BakingPowder": "1tsp",
             "Margarineorsoftenedbutter": "175g",
-            "Flour":"175g",
-            "Eggs":"3",
-            "Vanillaextract":"1tsp",
-            "Salt": "A pinch"
-        }
+            "Flour": "175g",
+            "Eggs": "3",
+            "Vanillaextract": "1tsp",
+            "Salt": "A pinch",
+            "Mix": "Chocolate",
+            "Fruits": "6 cherries"
+          }
     ]
 
 }
