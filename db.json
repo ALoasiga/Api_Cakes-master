@@ -29,7 +29,6 @@
             "Margarineorsoftenedbutter": "175g",
             "Flour":"175g",
             "Eggs":"3",
-            "Cherries":"6",
             "Vanillaextract":"1tsp",
             "Salt": "A pinch"
         },
@@ -42,8 +41,6 @@
             "Flour":"175g",
             "Eggs":"3",
             "Vanillaextract":"1tsp",
-            "UnsweetenedCocoa powder":"3/4 cup",
-            "Vegetableoil":"1/2 cup",
             "Salt": "A pinch"
         },
 
@@ -55,9 +52,6 @@
             "Flour":"175g",
             "Eggs":"3",
             "Vanillaextract":"1tsp",
-            "UnsweetenedCocoa powder":"3/4 cup",
-            "Vegetableoil":"1/2 cup",
-            "Sprinkles":"1/2 cup",
             "Salt": "A pinch"
         },
 
@@ -69,8 +63,6 @@
             "Flour":"175g",
             "Eggs":"3",
             "Vanilla extract":"1tsp",
-            "UnsweetenedCocoa powder":"3/4 cup",
-            "Vegetableoil":"1/2 cup",
             "Salt": "A pinch"
         },
 
@@ -82,11 +74,6 @@
             "Flour":"175g",
             "Eggs":"3",
             "Vanilla extract":"1tsp",
-            "Milk":"1/2 cup",
-            "Sprinkles":"1/2 cup",
-            "Heavycream":"6tbs",
-            "Vegetableoil":"1/2 cup",
-            "Strawberrys":"30",
             "Salt": "A pinch"
         },
 
@@ -98,9 +85,6 @@
             "Flour":"175g",
             "Eggs":"3",
             "Vanillaextract":"1tsp",
-            "Heavycream":"6tbs",
-            "Vegetableoil":"1/2 cup",
-            "Strawberrys":"12",
             "Salt": "A pinch"
         },
 
@@ -111,9 +95,6 @@
             "Margarineorsoftenedbutter": "175g",
             "Flour":"175g",
             "Eggs":"3",
-            "Heavycream":"6tbs",
-            "Vegetableoil":"1/2 cup",
-            "Strawberrys":"12",
             "Salt": "A pinch"
         }
     ]
