@@ -9,8 +9,8 @@
         "Eggs": "3",
         "Vanillaextract": "1tsp",
         "Salt": "A pinch",
-        "Mix": "Chocolate",
-        "Fruits": "6 cherries"
+        "Mix": "Red Velvet",
+        "Fruits": "None"
       },
       {
         "id": 2,
@@ -21,8 +21,8 @@
         "Eggs": "3",
         "Vanillaextract": "1tsp",
         "Salt": "A pinch",
-        "Mix": "Chocolate",
-        "Fruits": "8 strawberries"
+        "Mix": "Funfetti",
+        "Fruits": "6 cherries"
       },
       {
         "id": 3,
@@ -33,7 +33,7 @@
         "Eggs": "3",
         "Vanillaextract": "1tsp",
         "Salt": "A pinch",
-        "Mix": "Chocolate",
+        "Mix": "Vanilla",
         "Fruits": "6 cherries"
       },
       {
@@ -81,8 +81,8 @@
         "Eggs": "3",
         "Vanillaextract": "1tsp",
         "Salt": "A pinch",
-        "Mix": "Chocolate",
-        "Fruits": "6 cherries"
+        "Mix": "Vanilla",
+        "Fruits": "30 strawberries"
       },
       {
         "id": 8,
@@ -93,8 +93,8 @@
         "Eggs": "3",
         "Vanillaextract": "1tsp",
         "Salt": "A pinch",
-        "Mix": "Chocolate",
-        "Fruits": "8 strawberries"
+        "Mix": "Vanilla",
+        "Fruits": "15 strawberries"
       },
       {
         "id": 9,
@@ -105,8 +105,8 @@
         "Eggs": "3",
         "Vanillaextract": "1tsp",
         "Salt": "A pinch",
-        "Mix": "Chocolate",
-        "Fruits": "6 cherries"
+        "Mix": "Vanilla",
+        "Fruits": "12 strawberries"
       }
   ]
 }
