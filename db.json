@@ -8,6 +8,7 @@
          "Flour":"175g",
          "Eggs":"3",
          "Vanillaextract":"1tsp",
+         "Cake type":"Vanilla",
          "Salt": "A pinch"
         },
 
@@ -19,6 +20,7 @@
             "Flour":"175g",
             "Eggs":"3",
             "Vanillaextract":"1tsp",
+            "CakeMix":"Red Velvet",
             "Salt": "A pinch"
         },
 
@@ -30,6 +32,7 @@
             "Flour":"175g",
             "Eggs":"3",
             "Vanillaextract":"1tsp",
+            "CakeMix":"Funfetti",
             "Salt": "A pinch"
         },
 
@@ -41,6 +44,7 @@
             "Flour":"175g",
             "Eggs":"3",
             "Vanillaextract":"1tsp",
+            "CakeMix":"Chocolate",
             "Salt": "A pinch"
         },
 
@@ -52,6 +56,7 @@
             "Flour":"175g",
             "Eggs":"3",
             "Vanillaextract":"1tsp",
+            "CakeMix":"Chocolate",
             "Salt": "A pinch"
         },
 
@@ -63,6 +68,7 @@
             "Flour":"175g",
             "Eggs":"3",
             "Vanilla extract":"1tsp",
+            "CakeMix":"Chocolate",
             "Salt": "A pinch"
         },
 
@@ -74,6 +80,7 @@
             "Flour":"175g",
             "Eggs":"3",
             "Vanilla extract":"1tsp",
+            "CakeMix":"Vanila with Strawberries",
             "Salt": "A pinch"
         },
 
@@ -85,6 +92,7 @@
             "Flour":"175g",
             "Eggs":"3",
             "Vanillaextract":"1tsp",
+            "CakeMix":"Vanilla with Strawberries",
             "Salt": "A pinch"
         },
 
@@ -95,6 +103,8 @@
             "Margarineorsoftenedbutter": "175g",
             "Flour":"175g",
             "Eggs":"3",
+            "Vanillaextract":"1tsp",
+            "CakeMix":"Vanilla with Strawberries",
             "Salt": "A pinch"
         }
     ]
